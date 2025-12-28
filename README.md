@@ -42,7 +42,7 @@ A full-stack web application to discover workspaces in Sleman, Yogyakarta, with 
 
 ---
 
-### [![SegarKosan](https://img.shields.io/badge/SegarKosan-Repository-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SegarKosan/SegarKosan)
+### [![SegarKosan](https://img.shields.io/badge/SegarKosan-Repository-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SegarKosan)
 > **Smart Kosan with Odor Detection**
 
 
