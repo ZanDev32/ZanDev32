@@ -8,6 +8,15 @@
 ## Code
 
 <!--START_SECTION:waka-->
+
+```txt
+C++               22 hrs 28 mins        ███████████████▒░░░░░░░░░   61.39 %
+Markdown          4 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+INI               4 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+JSON              2 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Text              2 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Featured Projects
