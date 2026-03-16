@@ -5,6 +5,9 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,java,linux,bash,arduino,postgres,express,react,nodejs,nginx,docker,supabase,py,figma,github" />
 
+## Code
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## Featured Projects
 
@@ -61,18 +64,6 @@ An IoT-based air quality monitoring system designed for student boarding rooms (
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="ngrok"/>
 </p>
 
-
----
-
-## GitHub Stats
-
-<p align_ align="center">
-  <img src="https://github-readme-stats-three-murex-31.vercel.app/api?username=ZanDev32&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="vertical-align: baseline;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-three-murex-31.vercel.app/api/top-langs/?username=ZanDev32&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
