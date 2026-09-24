@@ -34,7 +34,7 @@ A gamified healthy-eating desktop application built with JavaFX that makes nutri
 
 ---
 
-### [![PlaceRadar](https://img.shields.io/badge/PlaceRadar-Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZanDev32/PlaceRadar)
+### [![PlaceRadar](https://img.shields.io/badge/PlaceRadar-View-20232A?style=for-the-badge&logo=github&logoColor=white)](https://placeradar.qzz.io/)
 > **Workspace Discovery Platform for Students & Remote Workers**
 
 A full-stack web application to discover workspaces in Sleman, Yogyakarta, with features highlighting Wi-Fi quality, power outlets, noise levels, and more. Fully containerized with Docker.
